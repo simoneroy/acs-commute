@@ -17,16 +17,16 @@ Margin of error for public transportation commute lengths was generally larger t
 
 ![](DroveAloneMOE.png)
 
-Code used to produced these charts can be found below.
+Code used to produced these charts can be found [below](https://github.com/sr-dc-policy-center/acs-commute/blob/master/Margin_of_Error_post.md#commute-time-by-means-of-transportation-margin-of-error-plots).
 
 Discussion of Data
 ------------------
 
-For tables B08007 (Sex of Workers by Place of Work--State and County Level), B08130 (Means of Transportation to Work by Place of Work -- State and County Level), B08301 (Means of Transportation to Work), B08302 (Time Leaving Home to Go to Work), and B08134 (Means of Transportation to Work by Travel Time to Work), the `tidycensus` R package was used to download the ACS data. These tables required little cleaning because `tidycensus` already produces them in a tidy format. An example of this code can be found below for Table B08302. Full code can be found [insert place where I eventually put this file].
+For tables B08007 (Sex of Workers by Place of Work--State and County Level), B08130 (Means of Transportation to Work by Place of Work -- State and County Level), B08301 (Means of Transportation to Work), B08302 (Time Leaving Home to Go to Work), and B08134 (Means of Transportation to Work by Travel Time to Work), the [tidycensus](https://walkerke.github.io/tidycensus/articles/basic-usage.html) R package was used to download the ACS data. These tables required little cleaning because `tidycensus` already produces them in a tidy format. An example of this code can be found [below](https://github.com/sr-dc-policy-center/acs-commute/blob/master/Margin_of_Error_post.md#b08302-time-leaving-for-work) for Table B08302. Full code can be found [insert place where I eventually put this file].
 
-Data was cleaned and reshaped using tidyverse packages (`dplyr`, `purrr`, `forcats`). Data was explored and plotted using `ggplot2` and `plotly`. Charts made using `ggplot2` were edited in Adobe Illustrator.
+Data was cleaned and reshaped using [tidyverse](https://www.tidyverse.org/) packages (`dplyr`, `purrr`, `forcats`). Data was explored and plotted using `ggplot2` and `plotly`. Charts made using `ggplot2` were edited in Adobe Illustrator.
 
-For subject tables (S0801 and S0802), it was more complicated to acquire and clean the data. ACS Subject tables were not supported by the Census API until 2015, so tables were downloaded using the American Fact Finder website and cleaned in Excel. S0801 was used for mean travel time and S0802 for mean travel time by means of transportation. Given the relatively small number of variables, this was easiest to do manually outside of R.
+For subject tables (S0801 and S0802), it was more complicated to acquire and clean the data. ACS Subject tables were not supported by the Census API until 2015, so tables were downloaded using the American Fact Finder website and cleaned in Excel. [S0801](https://factfinder.census.gov/bkmk/table/1.0/en/ACS/16_1YR/S0801/0100000US%7C0400000US11%7C0500000US24031%7C0500000US24033%7C0500000US51013%7C0500000US51059%7C0500000US51107%7C0500000US51153%7C0500000US51510%7C310M300US47900) was used for mean travel time and [S0802](https://factfinder.census.gov/bkmk/table/1.0/en/ACS/16_1YR/S0802/0100000US%7C0400000US11%7C0500000US24031%7C0500000US24033%7C0500000US51013%7C0500000US51059%7C0500000US51107%7C0500000US51153%7C0500000US51510%7C310M300US47900) for mean travel time by means of transportation. Given the relatively small number of variables, this was easiest to do manually outside of R.
 
 Commute Time by Means of Transportation: Margin of Error Plots
 ------------------
