@@ -1,0 +1,151 @@
+Year,Id,Id2,Geography,Location,Short_Name,Method,value,moe
+2012,0400000US11,11001,District of Columbia,District of Columbia,District of Columbia,Drove Alone,26.6,1
+2012,0500000US24031,24031,"Montgomery County, Maryland","Montgomery County, MD",Montgomery County,Drove Alone,30.5,0.5
+2012,0500000US24033,24033,"Prince George's County, Maryland","Prince George's County, MD",Prince George's County,Drove Alone,32.7,0.5
+2012,0500000US51013,51013,"Arlington County, Virginia","Arlington, VA",Arlington,Drove Alone,25.3,1.1
+2012,0500000US51059,51059,"Fairfax County, Virginia","Fairfax County, VA",Fairfax County,Drove Alone,29.4,0.5
+2012,0500000US51107,51107,"Loudoun County, Virginia","Loudoun County, VA",Loudoun County,Drove Alone,32.1,1
+2012,0500000US51153,51153,"Prince William County, Virginia","Prince William County, VA",Prince William County,Drove Alone,36.8,1.1
+2012,0500000US51510,51510,"Alexandria city, Virginia","Alexandria, VA",Alexandria,Drove Alone,26.5,1.1
+2012,310M100US47900,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",D.C. Metro Area,D.C. Metro Area,Drove Alone,31.7,0.2
+2012,0100000US,US,United States,United States,United States,Drove Alone,24.4,0.1
+2013,0400000US11,11001,District of Columbia,District of Columbia,District of Columbia,Drove Alone,27.1,0.8
+2013,0500000US24031,24031,"Montgomery County, Maryland","Montgomery County, MD",Montgomery County,Drove Alone,31.3,0.5
+2013,0500000US24033,24033,"Prince George's County, Maryland","Prince George's County, MD",Prince George's County,Drove Alone,34,0.6
+2013,0500000US51013,51013,"Arlington County, Virginia","Arlington, VA",Arlington,Drove Alone,25.3,1.1
+2013,0500000US51059,51059,"Fairfax County, Virginia","Fairfax County, VA",Fairfax County,Drove Alone,28.9,0.4
+2013,0500000US51107,51107,"Loudoun County, Virginia","Loudoun County, VA",Loudoun County,Drove Alone,31.3,0.9
+2013,0500000US51153,51153,"Prince William County, Virginia","Prince William County, VA",Prince William County,Drove Alone,35.5,1.1
+2013,0500000US51510,51510,"Alexandria city, Virginia","Alexandria, VA",Alexandria,Drove Alone,27,0.9
+2013,310M200US47900,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",D.C. Metro Area,D.C. Metro Area,Drove Alone,31.8,0.3
+2013,0100000US,US,United States,United States,United States,Drove Alone,24.4,0.1
+2014,0400000US11,11001,District of Columbia,District of Columbia,District of Columbia,Drove Alone,27.8,1
+2014,0500000US24031,24031,"Montgomery County, Maryland","Montgomery County, MD",Montgomery County,Drove Alone,30.8,0.6
+2014,0500000US24033,24033,"Prince George's County, Maryland","Prince George's County, MD",Prince George's County,Drove Alone,33,0.6
+2014,0500000US51013,51013,"Arlington County, Virginia","Arlington, VA",Arlington,Drove Alone,26.6,0.8
+2014,0500000US51059,51059,"Fairfax County, Virginia","Fairfax County, VA",Fairfax County,Drove Alone,28.6,0.4
+2014,0500000US51107,51107,"Loudoun County, Virginia","Loudoun County, VA",Loudoun County,Drove Alone,31.3,1
+2014,0500000US51153,51153,"Prince William County, Virginia","Prince William County, VA",Prince William County,Drove Alone,36.4,1.1
+2014,0500000US51510,51510,"Alexandria city, Virginia","Alexandria, VA",Alexandria,Drove Alone,27.7,1
+2014,310M200US47900,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",D.C. Metro Area,D.C. Metro Area,Drove Alone,31.9,0.2
+2014,0100000US,US,United States,United States,United States,Drove Alone,24.7,0.1
+2015,0400000US11,11001,District of Columbia,District of Columbia,District of Columbia,Drove Alone,28.2,0.7
+2015,0500000US24031,24031,"Montgomery County, Maryland","Montgomery County, MD",Montgomery County,Drove Alone,30.9,0.4
+2015,0500000US24033,24033,"Prince George's County, Maryland","Prince George's County, MD",Prince George's County,Drove Alone,33.5,0.6
+2015,0500000US51013,51013,"Arlington County, Virginia","Arlington, VA",Arlington,Drove Alone,26.5,1
+2015,0500000US51059,51059,"Fairfax County, Virginia","Fairfax County, VA",Fairfax County,Drove Alone,28.7,0.4
+2015,0500000US51107,51107,"Loudoun County, Virginia","Loudoun County, VA",Loudoun County,Drove Alone,33.2,1
+2015,0500000US51153,51153,"Prince William County, Virginia","Prince William County, VA",Prince William County,Drove Alone,37.6,0.8
+2015,0500000US51510,51510,"Alexandria city, Virginia","Alexandria, VA",Alexandria,Drove Alone,26.2,1.2
+2015,310M200US47900,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",D.C. Metro Area,D.C. Metro Area,Drove Alone,32.2,0.2
+2015,0100000US,US,United States,United States,United States,Drove Alone,25.1,0.1
+2016,0400000US11,11001,District of Columbia,District of Columbia,District of Columbia,Drove Alone,28.6,0.8
+2016,0500000US24031,24031,"Montgomery County, Maryland","Montgomery County, MD",Montgomery County,Drove Alone,31.4,0.6
+2016,0500000US24033,24033,"Prince George's County, Maryland","Prince George's County, MD",Prince George's County,Drove Alone,34.2,0.5
+2016,0500000US51013,51013,"Arlington County, Virginia","Arlington, VA",Arlington,Drove Alone,26.8,1.2
+2016,0500000US51059,51059,"Fairfax County, Virginia","Fairfax County, VA",Fairfax County,Drove Alone,29.6,0.5
+2016,0500000US51107,51107,"Loudoun County, Virginia","Loudoun County, VA",Loudoun County,Drove Alone,33.3,1
+2016,0500000US51153,51153,"Prince William County, Virginia","Prince William County, VA",Prince William County,Drove Alone,36.8,0.9
+2016,0500000US51510,51510,"Alexandria city, Virginia","Alexandria, VA",Alexandria,Drove Alone,29,1.3
+2016,310M300US47900,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",D.C. Metro Area,D.C. Metro Area,Drove Alone,32.7,0.3
+2016,0100000US,US,United States,United States,United States,Drove Alone,25.4,0.1
+2012,0400000US11,11001,District of Columbia,District of Columbia,District of Columbia,Carpool,29.1,2.2
+2012,0500000US24031,24031,"Montgomery County, Maryland","Montgomery County, MD",Montgomery County,Carpool,34.8,1.9
+2012,0500000US24033,24033,"Prince George's County, Maryland","Prince George's County, MD",Prince George's County,Carpool,35.2,1.9
+2012,0500000US51013,51013,"Arlington County, Virginia","Arlington, VA",Arlington,Carpool,27.3,3.8
+2012,0500000US51059,51059,"Fairfax County, Virginia","Fairfax County, VA",Fairfax County,Carpool,31.7,1.6
+2012,0500000US51107,51107,"Loudoun County, Virginia","Loudoun County, VA",Loudoun County,Carpool,36.3,3.4
+2012,0500000US51153,51153,"Prince William County, Virginia","Prince William County, VA",Prince William County,Carpool,42.8,2.6
+2012,0500000US51510,51510,"Alexandria city, Virginia","Alexandria, VA",Alexandria,Carpool,31,5.4
+2012,310M100US47900,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",D.C. Metro Area,D.C. Metro Area,Carpool,36.6,0.8
+2012,0100000US,US,United States,United States,United States,Carpool,28.2,0.1
+2013,0400000US11,11001,District of Columbia,District of Columbia,District of Columbia,Carpool,27.8,1.9
+2013,0500000US24031,24031,"Montgomery County, Maryland","Montgomery County, MD",Montgomery County,Carpool,32.7,2.1
+2013,0500000US24033,24033,"Prince George's County, Maryland","Prince George's County, MD",Prince George's County,Carpool,34,1.9
+2013,0500000US51013,51013,"Arlington County, Virginia","Arlington, VA",Arlington,Carpool,24.2,3.2
+2013,0500000US51059,51059,"Fairfax County, Virginia","Fairfax County, VA",Fairfax County,Carpool,33.6,1.7
+2013,0500000US51107,51107,"Loudoun County, Virginia","Loudoun County, VA",Loudoun County,Carpool,33.7,3.1
+2013,0500000US51153,51153,"Prince William County, Virginia","Prince William County, VA",Prince William County,Carpool,42.1,2.2
+2013,0500000US51510,51510,"Alexandria city, Virginia","Alexandria, VA",Alexandria,Carpool,27.4,3.1
+2013,310M200US47900,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",D.C. Metro Area,D.C. Metro Area,Carpool,35.8,1
+2013,0100000US,US,United States,United States,United States,Carpool,28,0.1
+2014,0400000US11,11001,District of Columbia,District of Columbia,District of Columbia,Carpool,30,2.3
+2014,0500000US24031,24031,"Montgomery County, Maryland","Montgomery County, MD",Montgomery County,Carpool,33.5,1.6
+2014,0500000US24033,24033,"Prince George's County, Maryland","Prince George's County, MD",Prince George's County,Carpool,36.9,1.8
+2014,0500000US51013,51013,"Arlington County, Virginia","Arlington, VA",Arlington,Carpool,28.7,3.9
+2014,0500000US51059,51059,"Fairfax County, Virginia","Fairfax County, VA",Fairfax County,Carpool,35.3,2
+2014,0500000US51107,51107,"Loudoun County, Virginia","Loudoun County, VA",Loudoun County,Carpool,36.9,2.5
+2014,0500000US51153,51153,"Prince William County, Virginia","Prince William County, VA",Prince William County,Carpool,45.4,2.9
+2014,0500000US51510,51510,"Alexandria city, Virginia","Alexandria, VA",Alexandria,Carpool,37,8.6
+2014,310M200US47900,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",D.C. Metro Area,D.C. Metro Area,Carpool,37.8,1
+2014,0100000US,US,United States,United States,United States,Carpool,27.9,0.1
+2015,0400000US11,11001,District of Columbia,District of Columbia,District of Columbia,Carpool,27.4,2
+2015,0500000US24031,24031,"Montgomery County, Maryland","Montgomery County, MD",Montgomery County,Carpool,33.8,2
+2015,0500000US24033,24033,"Prince George's County, Maryland","Prince George's County, MD",Prince George's County,Carpool,35.9,1.8
+2015,0500000US51013,51013,"Arlington County, Virginia","Arlington, VA",Arlington,Carpool,30,4.4
+2015,0500000US51059,51059,"Fairfax County, Virginia","Fairfax County, VA",Fairfax County,Carpool,34,2.1
+2015,0500000US51107,51107,"Loudoun County, Virginia","Loudoun County, VA",Loudoun County,Carpool,31.1,3.3
+2015,0500000US51153,51153,"Prince William County, Virginia","Prince William County, VA",Prince William County,Carpool,40.2,3.3
+2015,0500000US51510,51510,"Alexandria city, Virginia","Alexandria, VA",Alexandria,Carpool,30.5,4.1
+2015,310M200US47900,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",D.C. Metro Area,D.C. Metro Area,Carpool,36.3,0.9
+2015,0100000US,US,United States,United States,United States,Carpool,28,0.1
+2016,0400000US11,11001,District of Columbia,District of Columbia,District of Columbia,Carpool,29,2
+2016,0500000US24031,24031,"Montgomery County, Maryland","Montgomery County, MD",Montgomery County,Carpool,34.1,1.8
+2016,0500000US24033,24033,"Prince George's County, Maryland","Prince George's County, MD",Prince George's County,Carpool,34.8,1.5
+2016,0500000US51013,51013,"Arlington County, Virginia","Arlington, VA",Arlington,Carpool,25.6,3
+2016,0500000US51059,51059,"Fairfax County, Virginia","Fairfax County, VA",Fairfax County,Carpool,33.9,1.8
+2016,0500000US51107,51107,"Loudoun County, Virginia","Loudoun County, VA",Loudoun County,Carpool,37.1,4.5
+2016,0500000US51153,51153,"Prince William County, Virginia","Prince William County, VA",Prince William County,Carpool,44,2.6
+2016,0500000US51510,51510,"Alexandria city, Virginia","Alexandria, VA",Alexandria,Carpool,34.3,3.7
+2016,310M300US47900,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",D.C. Metro Area,D.C. Metro Area,Carpool,36.2,0.9
+2016,0100000US,US,United States,United States,United States,Carpool,28,0.1
+2012,0400000US11,11001,District of Columbia,District of Columbia,District of Columbia,Public Transportation,37.6,0.9
+2012,0500000US24031,24031,"Montgomery County, Maryland","Montgomery County, MD",Montgomery County,Public Transportation,51.1,1.7
+2012,0500000US24033,24033,"Prince George's County, Maryland","Prince George's County, MD",Prince George's County,Public Transportation,52.8,1.8
+2012,0500000US51013,51013,"Arlington County, Virginia","Arlington, VA",Arlington,Public Transportation,34.3,1.3
+2012,0500000US51059,51059,"Fairfax County, Virginia","Fairfax County, VA",Fairfax County,Public Transportation,51.7,1.9
+2012,0500000US51107,51107,"Loudoun County, Virginia","Loudoun County, VA",Loudoun County,Public Transportation,60.3,9.2
+2012,0500000US51153,51153,"Prince William County, Virginia","Prince William County, VA",Prince William County,Public Transportation,74.6,4.7
+2012,0500000US51510,51510,"Alexandria city, Virginia","Alexandria, VA",Alexandria,Public Transportation,39.5,2.5
+2012,310M100US47900,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",D.C. Metro Area,D.C. Metro Area,Public Transportation,47.5,0.6
+2012,0100000US,US,United States,United States,United States,Public Transportation,48.2,0.2
+2013,0400000US11,11001,District of Columbia,District of Columbia,District of Columbia,Public Transportation,37.7,0.9
+2013,0500000US24031,24031,"Montgomery County, Maryland","Montgomery County, MD",Montgomery County,Public Transportation,52.7,1.5
+2013,0500000US24033,24033,"Prince George's County, Maryland","Prince George's County, MD",Prince George's County,Public Transportation,53,1.3
+2013,0500000US51013,51013,"Arlington County, Virginia","Arlington, VA",Arlington,Public Transportation,34.4,1.3
+2013,0500000US51059,51059,"Fairfax County, Virginia","Fairfax County, VA",Fairfax County,Public Transportation,53.2,1.7
+2013,0500000US51107,51107,"Loudoun County, Virginia","Loudoun County, VA",Loudoun County,Public Transportation,67,9.7
+2013,0500000US51153,51153,"Prince William County, Virginia","Prince William County, VA",Prince William County,Public Transportation,66.8,4.9
+2013,0500000US51510,51510,"Alexandria city, Virginia","Alexandria, VA",Alexandria,Public Transportation,43.4,2.6
+2013,310M200US47900,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",D.C. Metro Area,D.C. Metro Area,Public Transportation,47.9,0.7
+2013,0100000US,US,United States,United States,United States,Public Transportation,48.7,0.1
+2014,0400000US11,11001,District of Columbia,District of Columbia,District of Columbia,Public Transportation,36.4,0.7
+2014,0500000US24031,24031,"Montgomery County, Maryland","Montgomery County, MD",Montgomery County,Public Transportation,51.1,1.4
+2014,0500000US24033,24033,"Prince George's County, Maryland","Prince George's County, MD",Prince George's County,Public Transportation,54.7,1.5
+2014,0500000US51013,51013,"Arlington County, Virginia","Arlington, VA",Arlington,Public Transportation,36.3,2
+2014,0500000US51059,51059,"Fairfax County, Virginia","Fairfax County, VA",Fairfax County,Public Transportation,53.2,1.5
+2014,0500000US51107,51107,"Loudoun County, Virginia","Loudoun County, VA",Loudoun County,Public Transportation,69.3,4
+2014,0500000US51153,51153,"Prince William County, Virginia","Prince William County, VA",Prince William County,Public Transportation,68.8,4.8
+2014,0500000US51510,51510,"Alexandria city, Virginia","Alexandria, VA",Alexandria,Public Transportation,41.9,2.1
+2014,310M200US47900,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",D.C. Metro Area,D.C. Metro Area,Public Transportation,48.4,0.7
+2014,0100000US,US,United States,United States,United States,Public Transportation,49.2,0.2
+2015,0400000US11,11001,District of Columbia,District of Columbia,District of Columbia,Public Transportation,36.9,1
+2015,0500000US24031,24031,"Montgomery County, Maryland","Montgomery County, MD",Montgomery County,Public Transportation,52,1.6
+2015,0500000US24033,24033,"Prince George's County, Maryland","Prince George's County, MD",Prince George's County,Public Transportation,54,1.7
+2015,0500000US51013,51013,"Arlington County, Virginia","Arlington, VA",Arlington,Public Transportation,36.6,1.4
+2015,0500000US51059,51059,"Fairfax County, Virginia","Fairfax County, VA",Fairfax County,Public Transportation,54.1,1.9
+2015,0500000US51107,51107,"Loudoun County, Virginia","Loudoun County, VA",Loudoun County,Public Transportation,72,4.5
+2015,0500000US51153,51153,"Prince William County, Virginia","Prince William County, VA",Prince William County,Public Transportation,65.6,3.8
+2015,0500000US51510,51510,"Alexandria city, Virginia","Alexandria, VA",Alexandria,Public Transportation,46,3.1
+2015,310M200US47900,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",D.C. Metro Area,D.C. Metro Area,Public Transportation,48.8,0.6
+2015,0100000US,US,United States,United States,United States,Public Transportation,49.9,0.2
+2016,0400000US11,11001,District of Columbia,District of Columbia,District of Columbia,Public Transportation,39.5,1
+2016,0500000US24031,24031,"Montgomery County, Maryland","Montgomery County, MD",Montgomery County,Public Transportation,51.2,1.4
+2016,0500000US24033,24033,"Prince George's County, Maryland","Prince George's County, MD",Prince George's County,Public Transportation,54.4,1.8
+2016,0500000US51013,51013,"Arlington County, Virginia","Arlington, VA",Arlington,Public Transportation,36.5,1.6
+2016,0500000US51059,51059,"Fairfax County, Virginia","Fairfax County, VA",Fairfax County,Public Transportation,55.1,2.2
+2016,0500000US51107,51107,"Loudoun County, Virginia","Loudoun County, VA",Loudoun County,Public Transportation,76,4
+2016,0500000US51153,51153,"Prince William County, Virginia","Prince William County, VA",Prince William County,Public Transportation,71.1,5.5
+2016,0500000US51510,51510,"Alexandria city, Virginia","Alexandria, VA",Alexandria,Public Transportation,44.1,2.5
+2016,310M300US47900,47900,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",D.C. Metro Area,D.C. Metro Area,Public Transportation,49.2,0.7
+2016,0100000US,US,United States,United States,United States,Public Transportation,50.1,0.2
