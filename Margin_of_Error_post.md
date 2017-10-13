@@ -32,6 +32,7 @@ Commute Time by Means of Transportation: Margin of Error Plots
 ------------------
 
 ``` r
+library(extrafont) #to load fonts
 library(tidyverse)
 ```
 
@@ -43,8 +44,6 @@ library(tidyverse)
     ## Loading tidyverse: dplyr
 
 ``` r
-library(extrafont) #to load fonts
-
 commute_time_by_means <- read.csv("commute_time_by_means_new.csv")
 
 commute_time_by_means %>% filter(Method == "Public Transportation") %>%  #filter for public transportation
