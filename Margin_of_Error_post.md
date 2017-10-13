@@ -28,6 +28,9 @@ Data was cleaned and reshaped using tidyverse packages (`dplyr`, `purrr`, `forca
 
 For subject tables (S0801 and S0802), it was more complicated to acquire and clean the data. ACS Subject tables were not supported by the Census API until 2015, so tables were downloaded using the American Fact Finder website and cleaned in Excel. S0801 was used for mean travel time and S0802 for mean travel time by means of transportation. Given the relatively small number of variables, this was easiest to do manually outside of R.
 
+Commute Time by Means of Transportation: Margin of Error Plots
+------------------
+
 ``` r
 library(tidyverse)
 ```
@@ -93,7 +96,8 @@ commute_time_by_means %>% filter(Method == "Drove Alone") %>% #filter for drove 
         axis.title.x = element_text(margin = margin(t = 10, r=0, b = 0, l =0)))
 ```
 
-
+B08302: Time Leaving for Work
+------------------
 
 ``` r
 #B08302 - Time Leaving for Work
